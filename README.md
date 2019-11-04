@@ -1,4 +1,4 @@
-# Paymerang-test
+# TechnicalTest
 ## @ *Malik Usman*
 
 ## Deployed link: 
