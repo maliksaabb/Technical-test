@@ -1,0 +1,144 @@
+  body {
+    font-family: sans-serif;
+    padding: 20px 0 28px 0;
+    margin: 0;
+    color: #333;
+    background-color: #DEDEDE;
+    
+   
+}
+
+.banner {
+    background-color: rgb(255, 255, 255);
+    max-width: 1000px;
+    margin: 0px auto;
+    padding: 20px;
+    
+    
+}
+
+h1 {
+    font-size: 30px;
+    
+}
+
+.home{
+    color: #FFF;
+   }
+
+.page-title {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 35px;
+    color: #702080;
+    font-weight: bold;
+    text-align: left;
+
+}
+
+td{
+    color:rgb(114, 111, 111) ;
+    font-size: 16px;
+    }
+
+.payments-table {
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+
+th, td {
+    border-bottom: 1px solid #DEDEDE;
+    text-align: left;
+    padding: 10px;
+   }
+
+th {
+    background-color:rgba(47, 27, 73, 0.966);
+    color: #FFF;
+ 
+}
+
+tr:nth-child(even) {
+    background-color: rgba(222, 222, 222, 0.288);
+}
+
+.content {
+    background-color: #FFF;
+    overflow: hidden;
+    margin: 0px auto;
+    width: 1000px;
+    padding: 30px;
+    padding-left:  66px;
+    padding-right: 66px;
+    
+    
+}
+
+.payee-name {
+    font-size: 20px;
+    font-style: oblique;
+    text-decoration: none;
+    color: rgb(133, 130, 130);
+    
+}
+
+.payee-container{
+    float: left;
+    width: 400px; 
+   
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.payee-table {
+    float: left;
+    width: 500px;
+    border-collapse: collapse;
+    
+}
+
+.card-details {
+    box-shadow: 0 0 8px #aaa;
+    margin-left: 20px;
+    float: left;
+    padding: 30px;
+    width: 250px;
+    border: 0px solid rgba(47, 27, 73, 0.966);
+   
+}
+
+.remittance-container{
+    box-shadow: 0 0 8px #aaa;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 0px solid;
+    padding: 10px;
+    width: 40%;
+    
+}
+.remittance-table {
+    border-collapse: collapse;
+    width: 100%;
+   
+    
+}
+
+.carousel-indicators li {
+    background:black;
+    opacity: 0.5;
+    margin: 6px;
+    border: 1px;
+    height: 2px !important;
+}
+
+.footer {
+    text-align: center;
+    margin: 30px;
+    font-size: 13;
+    color: #B70755;
+   
+}
