@@ -1,7 +1,7 @@
 # TechnicalTest
 ## @ *Malik Usman*
 
-## Deployed link: 
+## Deployed link: https://maliksaabb.github.io/Technical-test/
 
 ## Instructions:
 As you know, we make payments on behalf of our clients. We like to be able to display the payment details in a clear, concise manner for our employees, who are responsible for ensuring the vendors receive the payments.
