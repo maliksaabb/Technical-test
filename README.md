@@ -11,8 +11,8 @@ Attached is a blob of json data that represents the following: There are multipl
 There is only one requirement - create a webpage that shows each Payee/Payment/Remittance object in a paged interface. Everything else is up to you - overall design, technology used, styling, amount of time spent on the test, etc.
 
 ## Summary:
-Avoided going in extra to keep it simple and also according to the knowledge that i gained till now. At some points, had a little hard time to figure out on how i wanted it to work but with little help and time it worked.
+Avoided going in extra to keep it simple and also according to the knowledge that i gained till now. At some points, had a little hard time to figure out on how i wanted it to work but with little help and time i figured it out.
 
-Also, tried to keep the frontend part simple and to mimic the current Paymerang's brand in terms of colors and logo design. Technologies that were used are HTML, CSS and mainly JavaScript and it took me 10 to 15 hours to complete this project.
+Also, tried to keep the frontend part simple and to mimic the current Paymerang's brand in terms of colors and logo design. For the other important part in the detailed section of payments I added a carousel that shows the remittance of the payee. Technologies that were used are HTML, CSS and mainly JavaScript and it took me 10 to 15 hours to complete this project.
 
 
